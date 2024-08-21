@@ -48,3 +48,5 @@ TODO
 I would run
 docker exec -it running_container php some command
 and "some command" would get executed on the host machine
+
+
